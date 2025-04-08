@@ -25,4 +25,4 @@ To get started with the project, clone the repository and install the required d
 ```bash
 git clone https://github.com/Anshi-12/Online_Payment_Fraud_Detection.git
 cd Online_Payment_Fraud_Detection
-pip install -r requirements.txt
+python main.py
